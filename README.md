@@ -31,10 +31,15 @@
 
 ---
 
-## 📈 GitHub Stats:
+## 📈 Languages & Tools I Work With:
 
-![Talha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+- 🐍 **Python** 
+- ☕ **C#**, **JavaScript**, **HTML/CSS/JS**  
+- ⚛️ **React.js**, **Tailwind CSS**  
+- 📊 **SQL**, **MySQL**, **MongoDB**  
+- 🤖 **scikit-learn**, **TensorFlow**, **LightGBM**, **XGBoost**, **Transformers**, **spaCy**  
+- 📈 **Data Analysis & Visualization:** Matplotlib, Seaborn , Pandas, Hypothesis Testing  
+- 🧰 **Git**, **GitHub**, **Jupyter Notebook**
 
 ---
 
