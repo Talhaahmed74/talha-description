@@ -13,9 +13,9 @@
 
 - **Programming Languages:** Python, JavaScript, SQL  
 - **Web Frameworks:** Flask, FastAPI, React.js, Tailwind CSS  
-- **Machine Learning:** scikit-learn, XGBoost, LightGBM, TensorFlow, Transformers (Hugging Face), spaCy  
+- **Machine Learning:** scikit-learn, XGBoost, LightGBM, TensorFlow, Transformers , spaCy  
 - **Databases:** MySQL, MongoDB  
-- **Data Science & Analysis:** Pandas, NumPy, Matplotlib, Seaborn, Power BI  
+- **Data Science & Analysis:** Pandas, NumPy, Matplotlib, Seaborn, FuzzyWuzzy  
 - **Version Control:** Git, GitHub  
 
 ---
@@ -26,20 +26,8 @@
 - **Customer Churn Prediction** – LightGBM model with React.js frontend and FastAPI backend  
 - **Fake News Detection** – NLP and ML classification to predict misinformation  
 - **Shape Identifier using CNNs** – Computer Vision model for shape recognition on user-uploaded images  
-- **Retail Sales Analysis Dashboard** – Data analytics project using SQL and Power BI  
-- **Movie Recommendation System** – Content-based recommendation engine using cosine similarity  
+- **Baking Management System (C#)** – Developed a monolithic desktop application with customer and admin portals, handling transactions, bill payments, and overall baking operations.
 
----
-
-## 📈 Languages & Tools I Work With:
-
-- 🐍 **Python** 
-- ☕ **C#**, **JavaScript**, **HTML/CSS/JS**  
-- ⚛️ **React.js**, **Tailwind CSS**  
-- 📊 **SQL**, **MySQL**, **MongoDB**  
-- 🤖 **scikit-learn**, **TensorFlow**, **LightGBM**, **XGBoost**, **Transformers**, **spaCy**  
-- 📈 **Data Analysis & Visualization:** Matplotlib, Seaborn , Pandas, Hypothesis Testing  
-- 🧰 **Git**, **GitHub**, **Jupyter Notebook**
 
 ---
 
